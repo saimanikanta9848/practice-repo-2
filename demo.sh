@@ -3,7 +3,7 @@
 # this is a comment
 
 name=Manikanta
-VALUE=10
+VALUE=150
 education=btech
 height=5.7
 
